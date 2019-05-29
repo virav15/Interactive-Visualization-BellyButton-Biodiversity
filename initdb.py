@@ -1,2 +1,2 @@
-from bellybutton-app1.app import db
+from BellyButton.app import db
 db.create_all()
