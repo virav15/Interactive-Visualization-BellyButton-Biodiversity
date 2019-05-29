@@ -1,1 +1,1 @@
-web: gunicorn Interactive-Visualization-BellyButton-Biodiversity.app:app
+web: gunicorn bellybutton-app1.app:app
